@@ -14,9 +14,3 @@ Return
 ^Down::WinMinimize, A                       ; Minimizes active window with Ctrl + Down
 
 ^Del::FileRecycleEmpty                      ; Empties recbin with Ctrl + Del
-
-; Favourite websites & app Shortcuts
-
-!s::
-    Run spotify.exe
-Return
